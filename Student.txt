@@ -9,3 +9,14 @@ total : 489
 Average : 97.8
 Result : Pass
 *********************************************************
+Student id : 2
+Student Name : Manicka 
+Tamil Mark : 100
+English Mark : 90
+Maths Mark : 99
+Science Mark : 100
+Social Mark : 100
+total : 489
+Average : 97.8
+Result : Pass
+*********************************************************
