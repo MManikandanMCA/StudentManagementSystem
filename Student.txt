@@ -1,0 +1,11 @@
+Student id : 1
+Student Name : Manikandan
+Tamil Mark : 90
+English Mark : 99
+Maths Mark : 100
+Science Mark : 100
+Social Mark : 100
+total : 489
+Average : 97.8
+Result : Pass
+*********************************************************
