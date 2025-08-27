@@ -92,6 +92,7 @@ public class StudentManagement {
                         Studentarr[j]=Studentarr[j+1]; //skip the current data
                     }
                     count--;
+                    System.out.println("Deleted Successfully...");
                     return;
                 }
             }

@@ -129,7 +129,7 @@ public class Student{
         }else{
             PassorFail = "Pass";
         }
-        return "Student id : "+id +"\nStudent Name : "+name+"\nTamil Mark : "+TamilMark+"\nEnglish Mark : "+EnglishMark+"\nMaths Mark : "+MathsMark
+        return "\nStudent id : "+id +"\nStudent Name : "+name+"\nTamil Mark : "+TamilMark+"\nEnglish Mark : "+EnglishMark+"\nMaths Mark : "+MathsMark
         +"\nScience Mark : "+ScienceMark+"\nSocial Mark : "+SocialMark+"\ntotal : "+TotalMark +"\nAverage : "+Averagemark +"\nResult : "+PassorFail
         +"\n*********************************************************";
     }
